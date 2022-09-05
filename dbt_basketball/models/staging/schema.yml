@@ -1,8 +1,8 @@
 
-version: 1
+version: 2
 
 models:
-  - name: season_stats
+  - name: stg_season_stats
     description: "Select all season stats"
     columns:
       - name: id

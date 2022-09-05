@@ -69,4 +69,4 @@ SELECT id,
         "2P%", 
         "eFG%", 
         "FT%"
-	FROM dbt_basketball.season_stats;
+	FROM dbt_basketball.season_stats
