@@ -1,4 +1,4 @@
-### Test DBT project using local postgres DB 
+### Testing DBT using local postgres DB :) 
 
  Input: basketball stats by year 
 
