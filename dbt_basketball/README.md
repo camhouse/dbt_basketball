@@ -1,4 +1,6 @@
-Test DBT project using DBT and postgres DB hosted locally
+###Test DBT project using local postgres DB 
 
-### Using sample basketball data 
+ Input: basketball stats by year 
+
+ Output: Interesting summary stats
 
