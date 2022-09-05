@@ -1,0 +1,13 @@
+
+version: 1
+
+models:
+  - name: season_stats
+    description: "Select all season stats"
+    columns:
+      - name: id
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null
+
