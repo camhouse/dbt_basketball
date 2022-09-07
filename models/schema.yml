@@ -1,0 +1,13 @@
+
+version: 2
+
+models:
+  - name: top_points_per_year
+    description: "List of Top Point Scorers for each year"
+    columns:
+      - name: id
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null
+
