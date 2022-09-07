@@ -70,3 +70,4 @@ SELECT id,
         "eFG%", 
         "FT%"
 	FROM dbt_basketball.season_stats
+    where false
